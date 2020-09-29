@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "2",
+      "description": "3",
+      "id": 1
+    },
+    {
+      "title": "other stream",
+      "description": "heres johnny",
+      "id": 2
+    },
+    {
+      "title": "User ID'ed stream",
+      "description": "This should have an id associated.",
+      "id": 3
+    },
+    {
+      "title": "Programmatic ",
+      "description": "Navigation",
+      "id": 4
+    },
+    {
+      "title": "1",
+      "description": "2",
+      "userId": "100780809483496394839",
+      "id": 5
+    }
+  ]
+}
